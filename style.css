@@ -1,0 +1,19 @@
+.a {
+     display: flex;
+      border-style: solid; 
+      margin-left: 1000px;
+      width: 600px;
+}
+
+.b{
+    
+}
+.aa {
+    display: flex;
+    flex-direction: row;
+}
+.rd {
+    display: flex;
+    flex-direction: row;
+     align-items: center;
+}
